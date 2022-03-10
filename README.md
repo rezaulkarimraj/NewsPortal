@@ -1,0 +1,2 @@
+# NewsPortal
+Sample News Website
